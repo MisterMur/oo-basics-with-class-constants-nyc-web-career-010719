@@ -7,7 +7,7 @@ class Book
     # GENRES << self
   end
   def GENRES 
-    GENRES=self.genre
+    GENRES= self.genre
   end
 
 
