@@ -6,9 +6,7 @@ class Book
     @title = title
     # GENRES << self
   end
-  def GENRES 
-    GENRES = self.genre
-  end
+ 
 
 
   def turn_page
